@@ -15,3 +15,4 @@
       #fallback static_eth0
       将这后面的内容都删了
       成功
+      附带链接如下：https://blog.csdn.net/chenchen2360060/article/details/84952081?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control
